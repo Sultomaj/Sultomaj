@@ -1,99 +1,119 @@
-# 👋 Hi, I'm **Sultan Abdul-Majeed**
+<!-- Title + Typing Animation -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&center=true&vCenter=true&width=900&lines=👋+Hi,+I'm+Sultan+Abdul-Majeed;AI/ML+Engineer+in+Training;Computer+Vision+%7C+NLP+%7C+Java+Developer;Mobile+App+Creator+%7C+Smart+City+Tech+Enthusiast;Welcome+to+My+GitHub!+🚀" alt="Typing Animation"/>
+</h1>
 
-### Aspiring AI/ML Engineer | Computer Vision & NLP Enthusiast | Java & Mobile App Developer
-
-Welcome to my GitHub!  
-I’m passionate about building intelligent systems — from **AI/ML models**, **computer vision applications**, and **mobile apps**, to **smart city technologies** and **Java-based software solutions**.  
-I’m always learning, experimenting, and developing projects that make a real-world impact.
-
----
-
-## 🚀 About Me
-
-- 🌱 Exploring **AI/ML**, especially Computer Vision, EfficientNet, YOLO, and NLP  
-- 🔭 Working on ML projects: fruit classification, smoke/fire detection, math topic classification  
-- 👨‍💻 Building Java applications like the **Smart Attendance Tracker** (with GUI & advanced features)  
-- 📱 Creating mobile apps like the **Local Farmer Market Finder**  
-- 🌐 Skilled in **network design using Cisco Packet Tracer** (routers, switches, DHCP, DNS, servers, WLANs)  
-- 🤖 Interested in smart city technologies (IoT, big data, autonomous systems)  
-- 🎯 Aspiring to secure an internship in **AI/ML**
+<p align="center">
+  Passionate about building intelligent systems — from ML models & CV apps to mobile apps and smart-city-driven technologies.
+</p>
 
 ---
 
-## 🧠 Skills & Technologies
+<!-- Social + visitor counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sultomaj&label=Visitors&color=blueviolet&style=for-the-badge"/>
+</p>
 
-### **Programming Languages**
-- Python  
-- Java  
-- JavaScript  
-- SQL  
+---
 
-### **Machine Learning & AI**
+## 🌈 **About Me**
+
+- 🌱 Learning **EfficientNet**, **YOLO**, **PyTorch**, **NLP models**  
+- 🤖 Working on **fruit classification**, **fire/smoke detection**, **math NLP**  
+- 👨‍💻 Building a **Smart Attendance Tracker** (Java, GUI, CSV export)  
+- 📱 Developing **Local Farmer Market Finder** (Android)  
+- 🌐 Designing networks using **Cisco Packet Tracer**  
+- 🏙️ Interested in **smart city systems** (IoT, big data, autonomous tech)  
+- 🎯 Seeking **AI/ML internship opportunities**  
+
+---
+
+## 🧠 **Tech Arsenal**
+
+### 💻 Languages  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,js,sqlite" height="50"/>
+</p>
+
+### 🤖 Machine Learning  
 - PyTorch  
-- EfficientNet (B2, B3)  
+- EfficientNet (B2/B3)  
 - YOLOv8  
-- Data augmentation & preprocessing  
-- NLP text classification  
-- Cross-validation, TTA, weighted sampling  
+- NLP (Text Classification)  
+- Data Augmentation, TTA  
+- Weighted Sampling  
 
-### **Tools & Platforms**
-- Kaggle  
-- Cisco Packet Tracer  
-- Git & GitHub  
-- Android / Mobile Development  
-
-### **Special Interests**
-- Computer Vision  
-- Smart City Technologies  
-- Mobile App Development  
-- Database Design  
+### 🛠 Tools  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=github,androidstudio,vscode" height="50"/>
+  <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1A73E8?style=for-the-badge&logo=cisco&logoColor=white"/>
+</p>
 
 ---
 
-## 🔥 Projects I'm Working On
+## 🚀 **Highlighted Projects**
 
-### 🐪 **Date (Fruit) Classification Model**
-- Custom PyTorch dataset loader  
-- EfficientNet feature extraction  
-- Background removal & augmentation  
+### 🐪 **Date (Fruit) Classification**
+> EfficientNet + Background Removal + Custom Dataset Loader  
+<img src="https://img.shields.io/badge/Computer_Vision-EE4B2B?style=flat-square"/>
 
-### 🐑 **Sheep Classification (Kaggle Competition)**
-- Advanced augmentation techniques  
-- EfficientNet B2/B3  
-- Test-Time Augmentation  
-- Weighted sampling for imbalance  
+---
+
+### 🐑 **Sheep Classification — Kaggle**
+> Heavy Augmentation • EfficientNet B3 • TTA • Class Imbalance Fix  
+<img src="https://img.shields.io/badge/Kaggle_Competition-20BEFF?style=flat-square"/>
+
+---
 
 ### 🧮 **Math Question Topic Classifier (NLP)**
-- 8-class math topic classifier  
-- Achieved **81% F1-score**  
+> 8-class NLP classifier — **81% F1 Score**  
+<img src="https://img.shields.io/badge/NLP-6A5ACD?style=flat-square"/>
 
-### 🎓 **Smart Attendance Tracker (Java)**
-- Multi-user login system  
-- Attendance history & CSV export  
-- GUI implementation  
-- Teacher & student modes  
+---
 
-### 📱 **Local Farmer Market Finder App**
-- Helps users find nearby farmers’ markets  
-- Enhances vendor visibility & sustainability  
+### 🎓 **Smart Attendance Tracker (Java Desktop App)**
+> GUI • Multi-role Login • CSV Export • Clean Architecture  
+
+---
+
+### 📱 **Local Farmer Market Finder**
+> Mobile app for farmer’s market discovery + vendor visibility  
+
+---
 
 ### 🌐 **Network Simulation Project**
-- Router/switch configuration  
-- DHCP, DNS, WLAN setup  
-- Web & email server configuration  
-- Full network connectivity testing  
+> DHCP • DNS • WLAN • Web Servers • Email Servers • Router/Switch Setup  
 
 ---
 
-## 📊 GitHub Stats
+## 🌌 **Fancy GitHub Stats**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sultomaj&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sultomaj&layout=compact&theme=radical)
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Sultomaj&show_icons=true&theme=omni&border_radius=15"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sultomaj&layout=compact&theme=omni&border_radius=15"/>
+</p>
+
+<p align="center">
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=Sultomaj&theme=omni&border_radius=15"/>
+</p>
 
 ---
 
-## 📫 Connect With Me
+## ✨ **Fun Add-ons**
 
-I’d love to collaborate on **AI/ML**, **computer vision**, **mobile development**, or **Java backend projects**.  
-Feel free to reach out anytime!
+### 💫 Random Dev Quote  
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</p>
 
+### 🌙 Aesthetic Divider  
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+---
+
+## 🤝 **Let's Connect**
+
+<p align="center">
+  I'm open to collaboration — AI/ML, computer vision, mobile apps, Java systems.  
+  <br><strong>Feel free to reach out anytime 🚀</strong>
+</p>
